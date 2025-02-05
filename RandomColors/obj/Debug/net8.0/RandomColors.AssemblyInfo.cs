@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RandomColors")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa2a8ed21a71ed02d1142704abc3524ae9f12996")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+73aae6c10fd5a3ae5dc77701948e89acbea1c890")]
 [assembly: System.Reflection.AssemblyProductAttribute("RandomColors")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RandomColors")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
