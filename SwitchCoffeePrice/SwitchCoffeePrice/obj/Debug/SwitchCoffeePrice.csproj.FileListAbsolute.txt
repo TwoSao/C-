@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\TwoSao\C-\SwitchCoffeePrice\SwitchCoffeePrice\obj\Debug\SwitchCoffeePrice.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\TwoSao\C-\SwitchCoffeePrice\SwitchCoffeePrice\obj\Debug\SwitchCoffeePrice.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\TwoSao\C-\SwitchCoffeePrice\SwitchCoffeePrice\bin\Debug\SwitchCoffeePrice.exe.config
+C:\Users\admin\source\repos\TwoSao\C-\SwitchCoffeePrice\SwitchCoffeePrice\bin\Debug\SwitchCoffeePrice.exe
+C:\Users\admin\source\repos\TwoSao\C-\SwitchCoffeePrice\SwitchCoffeePrice\bin\Debug\SwitchCoffeePrice.pdb
+C:\Users\admin\source\repos\TwoSao\C-\SwitchCoffeePrice\SwitchCoffeePrice\obj\Debug\SwitchCoffeePrice.exe
+C:\Users\admin\source\repos\TwoSao\C-\SwitchCoffeePrice\SwitchCoffeePrice\obj\Debug\SwitchCoffeePrice.pdb
